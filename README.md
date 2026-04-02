@@ -124,6 +124,4 @@ See `requirements.txt` for the full list.
 
 ---
 
-## License
 
-MIT
